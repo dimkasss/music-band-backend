@@ -6,8 +6,8 @@
 Сервер будет пытаться подключиться к postgres по дефолтному порту 5432 с паролем test в базу данных "music-bands", так что эти поля должны совпадать
 
 # терминал:
-# git clone https://github.com/dimkasss/music-band-backend.git
-# cd music-band-backend
-# npm i
-# npm run serve
+git clone https://github.com/dimkasss/music-band-backend.git
+cd music-band-backend
+npm i
+npm run serve
 готово!
